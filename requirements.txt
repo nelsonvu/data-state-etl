@@ -1,0 +1,10 @@
+jsonpointer==2.3
+Markdown==3.4.3
+python-slugify==8.0.1
+PyYAML==6.0
+SQLAlchemy==1.4.48
+virtualenv==20.23.0
+requests
+click==8.1.7
+kafka-python==2.0.2
+pyinstaller
